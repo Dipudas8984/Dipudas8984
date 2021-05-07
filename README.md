@@ -10,13 +10,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipudas8984" alt="dipudas8984" /></a> </p>
 
-- 🌱 I’m currently learning **cool things**
+- 🌱 I’m currently learning **cool things**;
 
-- 👨‍💻 All of my projects are available at [portFolio.link](portFolio.link)
+- 👨‍💻 All of my projects are available at [portFolio.link](portFolio.link);
 
-- 💬 Ask me about **anything u want**
+- 💬 Ask me about **anything u want**;
 
-- 📫 How to reach me **dasdipu8984@gmail.com**
+- 📫 How to reach me **dasdipu8984@gmail.com**;
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipudas8984&show_icons=true&locale=en" alt="dipudas8984" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipudas8984&" alt="dipudas8984" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipudas8984&" alt="dipudas8984" /></p>
