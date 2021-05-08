@@ -46,9 +46,6 @@ A passionate self-taught tech enthusiast.
   
 <br/><br/><br/><br/><br/>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dipudas8984&show_icons=true&locale=en&layout=compact&theme=gotham" alt="dipudas8984" /></p>
-
-
  <!--
 <h3 align='center'>
 📈 My GitHub Stats
