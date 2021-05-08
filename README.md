@@ -43,7 +43,12 @@ A passionate self-taught tech enthusiast.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <div/>
+  
+<br/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dipudas8984&show_icons=true&locale=en&layout=compact&theme=gotham" alt="dipudas8984" /></p>
+
 <br/><br/><br/><br/><br/>
+ <!--
 <h3 align='center'>
 📈 My GitHub Stats
 <h3/>
@@ -54,3 +59,4 @@ A passionate self-taught tech enthusiast.
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dipudas8984&theme=gotham" alt="dipudas8984" /></p>
 <div/>
+--!>
